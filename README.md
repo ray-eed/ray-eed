@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-eed)](https://github.com/anuraghazra/github-readme-stats)
+[![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-eed)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
