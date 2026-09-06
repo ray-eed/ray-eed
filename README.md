@@ -63,12 +63,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&hide_border=true&theme=transparent"
     height="170"
     alt="Fuad's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&hide_border=true&theme=transparent"
     height="170"
     alt="Top Languages"
   />
