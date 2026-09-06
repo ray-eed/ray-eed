@@ -63,17 +63,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&hide_border=true&theme=transparent"
+    src="./profile/stats.svg"
     height="170"
     alt="Fuad's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&hide_border=true&theme=transparent"
+    src="./profile/top-langs.svg"
     height="170"
     alt="Top Languages"
   />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
