@@ -55,14 +55,7 @@ contact : azmalfuad5@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Fuad's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ray-eed&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ray-eed&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
