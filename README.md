@@ -15,14 +15,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name    : Md. Azmal Fuad Bhuiyan
-alias   : Redox
-location: Dhaka, Bangladesh 🇧🇩
-varsity : BRAC University — Computer Science & Engineering
-learning: [Java, C++, HTML, CSS, JavaScript]
-focus   : [Software Development, Problem Solving, Cybersecurity]
-hobbies : [Photography, Art, Videography, Robotics]
-contact : azmalfuad5@gmail.com
+Name    : Md. Azmal Fuad Bhuiyan
+Alias   : Redox
+Location: Dhaka, Bangladesh 🇧🇩
+Varsity : BRAC University — Computer Science & Engineering
+Learning: [Java, C++, Python, HTML, CSS, JavaScript]
+Focus   : [Software Development, Problem Solving, Cybersecurity]
+Hobbies : [Photography, Art, Videography, Robotics]
+Contact : azmalfuad5@gmail.com
 ```
 
 ---
