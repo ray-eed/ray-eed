@@ -16,7 +16,7 @@
 
 ```yaml
 name    : Md. Azmal Fuad Bhuiyan
-alias   : Fuad
+alias   : Redox
 location: Dhaka, Bangladesh 🇧🇩
 varsity : BRAC University — Computer Science & Engineering
 learning: [Java, C++, HTML, CSS, JavaScript]
