@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Azmal Fuad Bhuiyan</h1>
 
-<h3 align="center">CSE Student @ BRAC University | Aspiring Software Developer</h3>
+<h3 align="center">
+  CSE Student @ BRAC University | Aspiring Software Developer
+</h3>
 
 <p align="center">
   <a href="https://github.com/ray-eed">
@@ -12,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science & Engineering student at **BRAC University**
-* 💻 Currently learning **Java, C++, HTML, CSS & JavaScript**
-* 🧠 Interested in **Software Development, Problem Solving & Cybersecurity**
-* 🚀 Currently focused on strengthening my programming fundamentals and building projects
-* 📸 Outside of coding, I'm interested in **Photography, Art, Videography & Robotics**
-* 📫 Reach me at **[azmalfuad5@gmail.com](mailto:azmalfuad5@gmail.com)**
+- 🎓 Computer Science & Engineering student at **BRAC University**
+- 💻 Currently learning **Java, C++, HTML, CSS & JavaScript**
+- 🧠 Interested in **Software Development, Problem Solving & Cybersecurity**
+- 🚀 Currently focused on strengthening my programming fundamentals and building projects
+- 📸 Outside of coding, I'm interested in **Photography, Art, Videography & Robotics**
+- 📫 Reach me at **azmalfuad5@gmail.com**
 
 ---
 
@@ -51,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-> More projects coming as I continue learning and building.
+> I'm currently building and expanding my project portfolio.
 
 <!-- Add your best projects here -->
 
@@ -60,8 +62,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&hide_border=true&theme=transparent" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ray-eed&show_icons=true&theme=transparent&hide_border=true"
+    height="170"
+    alt="Fuad's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-eed&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -72,12 +82,15 @@
   <a href="https://linkedin.com/in/md-azmal-fuad-bhuiyan-9294a7185">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://codeforces.com/profile/ray.eed_">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
+
   <a href="mailto:azmalfuad5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
   <a href="https://instagram.com/ray.eed_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -88,5 +101,18 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ray-eed/ray-eed/output/snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ray-eed/ray-eed/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ray-eed/ray-eed/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ray-eed/ray-eed/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
